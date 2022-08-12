@@ -3,22 +3,22 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/CwffZ61/20220605-104552.jpg" alt="nz" width="350"/>
+<img src="https://i.ibb.co/d4qyqcB/93896c71aa57213743432b9c41708ba9.jpg" alt="nz" width="350"/>
 </p>
 
-## 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 -𝗕𝗢𝗧࿐   Version 11.0
+## Queen-Leona-MD Bot v 1.0.1
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=Welcome+To+Queen╺+Leona+-+Bot.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+Social+Media+Club;Created+By:+Mr.Senuwa;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
-LATEST VERSION (2022-08-06) ([Anti link,  Anti bad words], [Owner can change bot name and owner name], [image, wallpaper error], [Text Maker caption can customize], [Many texts "Red Dragon Bot" are changed to your bot name]), (only admins can use group info editing commands), (Songs upload as voice note on/off  [to protect your data and storage]) [Fixed and Added]
+LATEST VERSION (2022-08-12) ([Anti link,  Anti bad words], [Owner can change bot name and owner name], [image, wallpaper error], [Text Maker caption can customize], [Many texts "Queen Leona Bot" are changed to your bot name]), (only admins can use group info editing commands), (Songs upload as voice note on/off  [to protect your data and storage]) [Fixed and Added]
 
-> [🔄Please Follow Me🤭](https://github.com/prabhasha2006)
+> [🔄Please Follow Me🤭](https://github.com/senuwaofficial)
 
 <img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
-> Image Designed By  ==(Dineth Indusara)== RED DRAGON TEAM
+> Image Designed By  ==(Moonlight)== Social Media Club
 
-> Created By ==(Kumuthu Prabhasha)== RED DRAGON TEAM
+> Created By ==(Mr.Senuwa)== Social Media Club
 
 <img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
@@ -29,20 +29,19 @@ LATEST VERSION (2022-08-06) ([Anti link,  Anti bad words], [Owner can change bot
 👇To proccess👇
 </p>
 
-## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@senuwaofficial/Queen-Leona-MD-QR)
  
-## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
+## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/senuwaofficial/Queen-Leona-MD/fork)
  
 ## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
 
-## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
 
 
 <img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
 <p align="center">
 
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
+<img src="https://i.ibb.co/d4qyqcB/93896c71aa57213743432b9c41708ba9.jpg" alt="nz" width="350"/>
 
 </p>
 
@@ -50,14 +49,14 @@ LATEST VERSION (2022-08-06) ([Anti link,  Anti bad words], [Owner can change bot
 
 <b><details><summary>🔄How to Update Bot🔄</summary>
 
-> [VIDEO](https://drive.google.com/file/d/1798s8erVW31EcmK3Opq-QuV7GG4byyoH/view)
+> [VIDEO]()
 
 </b>
 </details>
 
 <b><details><summary>📤How to Upload Images To Alive Msg📤</summary>
 
-> [VIDEO](https://drive.google.com/file/d/16J5278xK9-5oJUsGPygviVC9U6exw1AZ/view)
+> [VIDEO]()
 
 </b>
 </details>
@@ -78,7 +77,7 @@ Recommended WhatsApp👇
 
 ##
 
-> [SUPPORT GROUP](https://chat.whatsapp.com/I1v5ZTJeFjZ9x5LzG3qPHU)
+> [SUPPORT GROUP]()
 
 <b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
 
@@ -102,7 +101,7 @@ Recommended WhatsApp👇
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/380944814219"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+<a href="https://wa.me/94753420144"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
 </p>
 
 </details>
@@ -110,9 +109,6 @@ Recommended WhatsApp👇
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
-
-## 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐
-
 
 
 <b><details><summary>Available Features</summary><br>
@@ -137,13 +133,8 @@ Recommended WhatsApp👇
 
 <div align="center">
 	
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@senuwaofficial/Queen-Leona-MD-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 </div>
 
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
