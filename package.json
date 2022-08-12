@@ -1,6 +1,6 @@
 {
-  "name": "Red-Dragon-MD",
-  "version": "4.0.0",
+  "name": "Queen-Leona-MD",
+  "version": "1.0.1",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "boot.js",
   "type": "commonjs",
